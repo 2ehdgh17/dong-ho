@@ -20,7 +20,6 @@
           <LI TYPE="cicle">하고싶은게 되고싶은게 많은 꿈많은 학생<BR>
           <LI TYPE="cicle">열심히 노력해 꿈을 이루겠습니다.<BR> 
      </op>
-
      <LINK="blue VLINK="green" ALINK="gray">
      <A HREF="https://2ehdgh17.github.io/main/">[돌아가기]</A> <BR> 
 </BODY>
